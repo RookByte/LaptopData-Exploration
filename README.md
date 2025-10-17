@@ -14,7 +14,7 @@ The goal of this exercise was to transform a raw, messy dataset into a structure
 - Standardized and formatted inconsistent data  
 - Converted data types where necessary  
 - Performed basic exploratory data analysis (EDA)  
-- Visualized relationships between key features using `matplotlib` and `seaborn`  
+- Visualized relationships between key features using `matplotlib`  
 - **Provided comments alongside each analysis step** to explain observations and insights
 
 ---
@@ -24,7 +24,6 @@ The goal of this exercise was to transform a raw, messy dataset into a structure
 - **Pandas**
 - **NumPy**
 - **Matplotlib**
-- **Seaborn**
 
 ---
 
