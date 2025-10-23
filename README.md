@@ -16,6 +16,11 @@ The goal of this exercise was to transform a raw, messy dataset into a structure
 - Performed basic exploratory data analysis (EDA)  
 - Visualized relationships between key features using `matplotlib`  
 - **Provided comments alongside each analysis step** to explain observations and insights
+- ## New Update (October 2025)
+- Added PCA analysis (02_pca_analysis.ipynb)
+- Updated folder structure (data + notebooks)
+- Cleaned dataset remains available for analysis
+
 
 ---
 
